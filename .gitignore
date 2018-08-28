@@ -2,4 +2,5 @@
 .deploy_git/
 node_modules
 npm-debug.log
+.vuepress/dist
 db.json
